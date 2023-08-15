@@ -6,7 +6,7 @@ We implement Mutual Learning-based Semi-supervised (MLSS) on SEAME Mandarin-Engl
 
 The figure below shows MLSS approach.
 <p align="center">
-  <img width="300" alt="fig_method" src="https://github.com/caohongnga/MLSS/tree/main/figs/semi-network.png">
+  <img width="300" alt="fig_method" src="figs/semi-network.png">
 </p>
 
 
